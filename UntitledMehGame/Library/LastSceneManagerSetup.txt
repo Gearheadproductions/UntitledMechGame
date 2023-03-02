@@ -1,5 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/VR Builder Demo - Core
+    Features.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
